@@ -1,0 +1,5 @@
+export enum Status {
+  PENDING = 'PENDING',
+  PARTIAL_RECEPTION = 'PARTIAL_RECEPTION',
+  CLOSED = 'CLOSED',
+}
